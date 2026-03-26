@@ -1,6 +1,7 @@
 # Sales Performance Dashboard
 ## 📊 Project Overview
 This project presents a Sales Performance Dashboard created using Excel and Power BI to analyze sales data and generate meaningful business insights.
+Processed and analyzed sales data to identify trends and improve business decision-making.
 ## 🛠 Tools Used
 - Microsoft Excel
 - Power BI
